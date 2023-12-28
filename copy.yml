@@ -1,0 +1,84 @@
+- name: word实验二
+  word:
+  - word实验二word 哼歌.docx
+- name: word实验三
+  word:
+  - word实验三word1 哼歌.docx
+  - word实验三word2 哼歌.docx
+- name: word综合练习
+  word:
+  - word综合练习word1 哼歌.docx
+  - word综合练习word2 哼歌.docx
+- name: word实验四
+  word:
+  - word实验四 莫名其妙就满分了的文档.docx
+- name: excel实验一
+  word:
+  - excel实验一word 哼歌.docx
+  excel:
+  - excel实验一excel 哼歌.xlsx
+- name: excel实验二
+  word:
+  - excel实验二word 哼歌.docx
+  excel:
+  - excel实验二excel1 哼歌.xlsx
+  - excel实验二excel2 哼歌.xlsx
+  - excel实验二excel3 哼歌.xlsx
+- name: excel实验三
+  word:
+  - excel实验三word 哼歌.docx
+  excel:
+  - excel实验三excel1 哼歌.xlsx
+  - excel实验三excel2 哼歌.xlsx
+- name: excel实验四
+  word:
+  - excel实验四word 哼歌.docx
+  excel:
+  - excel实验四excel1 哼歌.xlsx
+  - excel实验四excel2 哼歌.xlsx
+  - excel实验四excel3 哼歌.xlsx
+  - excel实验四excel4 哼歌.xlsx
+- name: excel实验五
+  word:
+  - excel实验五word 哼歌.docx
+  excel:
+  - excel实验五excel1 哼歌.xlsx
+  - excel实验五excel2 哼歌.xlsx
+  - excel实验五excel3 哼歌.xlsx
+- name: excel综合实验1
+  word:
+  - excel综合实验一word1 哼歌.docx
+  - excel综合实验一word2 哼歌.docx
+  excel:
+  - excel综合实验一excel1 哼歌.xlsx
+  - excel综合实验一excel2 哼歌.xlsx
+  - excel综合实验一excel3 哼歌.xlsx
+  - excel综合实验一excel4 哼歌.xlsx
+- name: PPT实验一
+  word:
+  - ppt实验一word 哼歌.docx
+  excel:
+  - ppt实验一excel 哼歌.xlsx
+  ppt:
+  - ppt实验一ppt 哼歌.pptx
+- name: 综合练习1
+  word:
+  - 综合练习1word 哼歌.docx
+  excel:
+  - 综合练习1excel 哼歌.xlsx
+  ppt:
+  - 综合练习1ppt 哼歌.pptx
+- name: 综合练习2
+  word:
+  - 综合练习2word 哼歌.docx
+  excel:
+  - 综合练习2excel 哼歌.xlsx
+  ppt:
+  - 综合练习2ppt 哼歌.pptx
+- name: 综合练习3
+  word:
+  - 综合练习3word 哼歌.docx
+  excel:
+  - 综合练习3excel 哼歌.xlsx
+  ppt:
+  - 综合练习3ppt 哼歌.pptx
