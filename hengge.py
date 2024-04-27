@@ -162,6 +162,7 @@ funcs = [
     ("复制哼歌文件", func_copy),
 ]
 
+print("哼歌 v1.0.1")
 print("更新数据…")
 try_download_data_file("https://vudrux.site/d/docs/copy.yml", "copy.yml")
 try_download_data_file("https://vudrux.site/d/docs/dazi.yml", "dazi.yml")
