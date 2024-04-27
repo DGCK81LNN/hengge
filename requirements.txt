@@ -1,0 +1,4 @@
+pynput ~= 1.7
+pyyaml ~= 6.0
+wget ~= 3.2
+pyinstaller ~= 6.6
